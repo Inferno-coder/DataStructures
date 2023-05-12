@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-//DLL
+//DLL Implementation
 class Node {
     public:
     int data;
