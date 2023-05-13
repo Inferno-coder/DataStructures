@@ -1,12 +1,14 @@
-//program to implement the tree data structures
+//program to implement the tree data structure
 import java.util.*;
 class Main{
     Node root;
 //an inner class of Node
 static class Node{
+	
 	int data;
 	Node left;
 	Node right;
+	//constructor
 	Node(int item){
     data=item;
     left=right=null;	
