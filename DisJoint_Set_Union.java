@@ -1,3 +1,4 @@
+//disjoint set union
 import java.util.*;
 class Dsu{
      ArrayList<Integer>rank=new ArrayList<>();
