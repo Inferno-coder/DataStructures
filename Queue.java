@@ -43,7 +43,7 @@ class Main{
 				head=head.next;
 			}
 		}
-		
+	//method to implement the main function	
     public static void main(String []args){
 	   Main o=new Main();
 	   o.enqueue(10);
@@ -54,6 +54,7 @@ class Main{
 	   o.dequeue();
 	   o.dequeue();
 	   System.out.println();
+	    //display
 	   o.display();
 	   o.dequeue();
 	   o.dequeue();
